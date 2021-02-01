@@ -11,6 +11,7 @@ searchGlobe<- function(terms, filename) {
   library(gtrendsR)
   library(readxl)
   library(dplyr)
+  library(xlsx)
 
 
 

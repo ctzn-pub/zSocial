@@ -1,0 +1,31 @@
+url: https://ctzn-pub.github.io/zSocial/
+
+authors:
+   Zed AI:
+     href: https://uma.cool
+
+template:
+  params:
+    bootswatch: sandstone
+
+navbar:
+  type: default
+  left:
+  - icon: fa-home fa-lg
+    href: index.html
+  - text: Reference
+    href: reference/index.html
+  - text: Articles
+    menu:
+    - text: Managing Credentials
+      href: articles/credentials.html
+    - text: Helper Functions
+      href: articles/helpers.html
+  - text: News
+    menu:
+    - text: "Releases"
+    - text: "zSocial 0.1.0"
+      href: https://www.tidyverse.org/blog/2020/12/usethis-2-0-0/
+    - text: "------------------"
+    - text: "Change log"
+      href: news/index.html
